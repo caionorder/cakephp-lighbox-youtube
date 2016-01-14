@@ -1,4 +1,4 @@
-# Boxes (fanpage)
+# Boxes (LightBox Youtube)
 Hello, This plugin makes a lightbox with videos from youtube for CakePHP.
 
 ## Install
